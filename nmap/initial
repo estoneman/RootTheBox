@@ -1,0 +1,1 @@
+# Nmap 7.92 scan initiated Mon Nov 22 17:49:20 2021 as: nmap --top-ports 100 -sV -oN nmap/initial 192.168.101.137
